@@ -4,8 +4,8 @@ class NgxOpenresty < Formula
   homepage 'http://openresty.org/'
 
   stable do
-    url 'http://openresty.org/download/ngx_openresty-1.7.4.1.tar.gz'
-    sha1 'a19f95f71e9f98cc8a1f9138737c60f97e50e43c'
+    url 'http://openresty.org/download/ngx_openresty-1.7.7.2.tar.gz'
+    sha1 '837f1d740121ba22db8f9cbae0d142ce7a498c3a'
   end
 
   devel do
